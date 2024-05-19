@@ -6,40 +6,6 @@ import Go from "./Go";
 export function TypeWriterEffect() {
   const words = [
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 34a0eed2c3096e18b89356999fbaeba4faf9139e
->>>>>>> 1c9540e (Completed Alcubierre article)
->>>>>>> c142d93 (Completed Alcubierre article)
-=======
->>>>>>> 34a0eed2c3096e18b89356999fbaeba4faf9139e
-      text: "Explore",
-    },
-    {
-      text: "this",
-    },
-    {
-      text: "Dimension",
-      className: "text-blue-500 dark:text-blue-500",
-    },
-    {
-      text: "differently.",
-    },
-    {
-      text: "Randomly.",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
       text: "The",
     },
     {
@@ -53,13 +19,6 @@ export function TypeWriterEffect() {
     },
     {
       text: "Perspective.",
->>>>>>> e379202 (Completed Alcubierre article)
-=======
->>>>>>> 34a0eed2c3096e18b89356999fbaeba4faf9139e
->>>>>>> 1c9540e (Completed Alcubierre article)
->>>>>>> c142d93 (Completed Alcubierre article)
-=======
->>>>>>> 34a0eed2c3096e18b89356999fbaeba4faf9139e
       className: "tex.t-blue-500 dark:text-blue-500",
     },
   ];
