@@ -155,6 +155,13 @@ export const knowledgeBase = {
             slug: "Mythology",
         },
         {
+            title: "Reproduction",
+            shortDescription: "Biological process by which new organisms are generated from one or more parent organisms",
+            thumbnail: "/assets/reproduction.png",
+            topic: "Biology",
+            slug: "Reproduction",
+        },
+        {
             title: "Electron",
             shortDescription: "Elementary particle with negative charges",
             thumbnail: "/assets/electron.png",
@@ -349,13 +356,6 @@ export const knowledgeBase = {
             thumbnail: "/assets/disease.png",
             topic: "Disease",
             slug: "Disease",
-        },
-        {
-            title: "Reproduction",
-            shortDescription: "Biological process by which new organisms are generated from one or more parent organisms",
-            thumbnail: "/assets/reproduction.png",
-            topic: "Biology",
-            slug: "Reproduction",
         },
         {
             title: "DNA",

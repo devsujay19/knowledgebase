@@ -1,6 +1,12 @@
 export const changelogData = {
     logs: [
         {
+            title: "Moved the Reproduction article card",
+            type: "Moderate",
+            date: "May 18, 2024",
+            updates: "Moved the Reproduction article card to the upper side.",
+        },
+        {
             title: "Extended Reproduction article",
             type: "Modification",
             date: "May 18, 2024",
