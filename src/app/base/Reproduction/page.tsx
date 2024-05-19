@@ -5,6 +5,7 @@ import ParagraphSecondaryHeader from "@/components/ParagraphSecondaryHeader";
 import Link from "@/components/Link";
 import Citation from "@/components/Citation";
 import { Metadata } from "next";
+import HighLightText from "@/components/HighLightText";
 
 export const metadata: Metadata = {
     title: "Reproduction - Knowledge Base | Developer Sujay",
@@ -119,6 +120,24 @@ export default function Reproduction() {
                 <br />
                 <br />
                 When food sources have been depleted, the climate becomes hostile, or individual survival is jeopardized by some other adverse change in living conditions, these organisms switch to sexual forms of reproduction. Sexual reproduction ensures a mixing of the gene pool of the species. The variations found in offspring of sexual reproduction allow some individuals to be better suited for survival and provide a mechanism for selective adaptation to occur. The meiosis stage of the sexual cycle also allows especially effective repair of DNA damages. In addition, sexual reproduction usually results in the formation of a life stage that is able to endure the conditions that threaten the offspring of an asexual parent. Thus, seeds, spores, eggs, pupae, cysts or other &quot;over-wintering&quot; stages of sexual reproduction ensure the survival during unfavorable times and the organism can &quot;wait out&quot; adverse situations until a swing back to suitability occurs.
+            </p>
+            <br />
+            <ParagraphSecondaryHeader id="Life_without">Life without</ParagraphSecondaryHeader>
+            <p id="Life_without">
+                The existence of life without reproduction is the subject of some speculation. <HighLightText text="The biological study of how the origin of life produced reproducing organisms from non-reproducing elements is called abiogenesis" />. Whether or not there were several independent abiogenetic events, biologists believe that the last universal ancestor to all present life on Earth lived about 3.5 billion years ago.
+                <br />
+                <br />
+                Scientists have speculated about the possibility of creating life non-reproductively in the laboratory. Several scientists have succeeded in producing simple viruses from entirely non-living materials. However, viruses are often regarded as not alive. Being nothing more than a bit of RNA or DNA in a protein capsule, they have no metabolism and can only replicate with the assistance of a hijacked cell&apos;s metabolic machinery.
+                <br />
+                <br />
+                The production of a truly living organism (e.g. a simple bacterium) with no ancestors would be a much more complex task, but may well be possible to some degree according to current biological knowledge. A synthetic genome has been transferred into an existing bacterium where it replaced the native DNA, resulting in the artificial production of a new <i>M. mycoides</i> organism.
+                <br />
+                <br />
+                There is some debate within the scientific community over whether this cell can be considered completely synthetic on the grounds that the chemically synthesized genome was an almost 1:1 copy of a naturally occurring genome and, the recipient cell was a naturally occurring bacterium. The Craig Venter Institute maintains the term &quot;synthetic bacterial cell&quot; but they also clarify &quot;...we do not consider this to be &quot;creating life from scratch&quot; but rather we are creating new life out of already existing life using synthetic DNA&quot;. Venter plans to patent his experimental cells, stating that &quot;they are pretty clearly human inventions&quot;. Its creators suggests that building &apos;synthetic life&apos; would allow researchers to learn about life by building it, rather than by tearing it apart. They also propose to stretch the boundaries between life and machines until the two overlap to yield &quot;truly programmable organisms&quot;. Researchers involved stated that the creation of &quot;true synthetic biochemical life&quot; is relatively close in reach with current technology and cheap compared to the effort needed to place man on the Moon.
+            </p>
+            <ParagraphSecondaryHeader id="Lottery_principle">Lottery principle</ParagraphSecondaryHeader>
+            <p id="Lottery_principle">
+                Sexual reproduction has many drawbacks, since it requires far more energy than asexual reproduction and diverts the organisms from other pursuits, and there is some argument about why so many species use it. George C. Williams used lottery tickets as an analogy in one explanation for the widespread use of sexual reproduction. He argued that asexual reproduction, which produces little or no genetic variety in offspring, was like buying many tickets that all have the same number, limiting the chance of &quot;winning&quot; – that is, producing surviving offspring. Sexual reproduction, he argued, was like purchasing fewer tickets but with a greater variety of numbers and therefore a greater chance of success. The point of this analogy is that since asexual reproduction does not produce genetic variations, there is little ability to quickly adapt to a changing environment. The lottery principle is less accepted these days because of evidence that asexual reproduction is more prevalent in unstable environments, the opposite of what it predicts.
             </p>
         </>
     );

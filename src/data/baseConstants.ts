@@ -148,6 +148,13 @@ export const knowledgeBase = {
             slug: "Alcubierre_drive",
         },
         {
+            title: "Mythology",
+            shortDescription: "Collection of myths that belongs to a particular religious or cultural tradition",
+            thumbnail: "/assets/mythology.png",
+            topic: "Mythology",
+            slug: "Mythology",
+        },
+        {
             title: "Electron",
             shortDescription: "Elementary particle with negative charges",
             thumbnail: "/assets/electron.png",
@@ -279,13 +286,6 @@ export const knowledgeBase = {
             thumbnail: "/assets/technology.png",
             topic: "Technology",
             slug: "Technology",
-        },
-        {
-            title: "Mythology",
-            shortDescription: "Collection of myths that belongs to a particular religious or cultural tradition",
-            thumbnail: "/assets/mythology.png",
-            topic: "Mythology",
-            slug: "Mythology",
         },
         {
             title: "Religion",

@@ -1,6 +1,18 @@
 export const changelogData = {
     logs: [
         {
+            title: "Extended Reproduction article",
+            type: "Modification",
+            date: "May 18, 2024",
+            updates: "Extended Reproduction article.",
+        },
+        {
+            title: "Completed Mythology article",
+            type: "Completion",
+            date: "May 18, 2024",
+            updates: "Completed Mythology article.",
+        },
+        {
             title: "Completed Alcubierre drive article",
             type: "Completion",
             date: "May 18, 2024",
