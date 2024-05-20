@@ -1,6 +1,18 @@
 export const changelogData = {
     logs: [
         {
+            title: "Completed Religion article",
+            type: "Completion",
+            date: "May 21, 2024",
+            updates: "Completed the Religion article, only a single section named Related aspects is need to be written.",
+        },
+        {
+            title: "Applied to restore not-found page",
+            type: "Moderate",
+            date: "May 20, 2024",
+            updates: "Applied to restore not-found page for unknown/not configured/incorrect routes by creating a not-found.tsx file in the app/ directory.",
+        },
+        {
             title: "Moved the Reproduction article card",
             type: "Moderate",
             date: "May 18, 2024",

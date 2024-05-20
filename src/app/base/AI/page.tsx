@@ -1,9 +1,12 @@
-import TemporaryMessage from "@/components/TemporaryMessage";
+"use client";
 
-export default function Page() {
-    return (
-        <>
-            <TemporaryMessage />
-        </>
-    );
+import { useEffect } from "react";
+import { useRouter } from "next/navigation";
+
+export default function AI() {
+    const router = useRouter();
+
+    useEffect(() => {
+        router.replace("/base/Artificial_intelligence");
+    });
 };

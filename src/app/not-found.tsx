@@ -1,4 +1,4 @@
-import NotFoundComponent from "../components/NotFound";
+import NotFoundComponent from "@/components/NotFound";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {

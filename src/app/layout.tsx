@@ -25,12 +25,12 @@ export default function RootLayout({
       <head>
         <link rel="shortcut icon" href="/favicon/favicon.ico" type="image/x-icon" />
       </head>
-      <body className={`${inter.className} bg-black transition-all`}>
+      <body className={`${inter.className} bg-black light:bg-black dark:bg-black transition`}>
         <Suspense fallback={<BouncingBall />}>
           <NavigationBar />
           {children}
           <Footer />
-          <Toaster richColors position="bottom-right" theme="system" closeButton pauseWhenPageIsHidden visibleToasts={7} />
+          <Toaster richColors position="bottom-right" theme="dark" closeButton pauseWhenPageIsHidden visibleToasts={7} />
         </Suspense>
       </body>
     </html>

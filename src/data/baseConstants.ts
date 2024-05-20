@@ -148,11 +148,11 @@ export const knowledgeBase = {
             slug: "Alcubierre_drive",
         },
         {
-            title: "Mythology",
+            title: "Myth",
             shortDescription: "Collection of myths that belongs to a particular religious or cultural tradition",
             thumbnail: "/assets/mythology.png",
             topic: "Mythology",
-            slug: "Mythology",
+            slug: "Myth",
         },
         {
             title: "Reproduction",
@@ -160,6 +160,20 @@ export const knowledgeBase = {
             thumbnail: "/assets/reproduction.png",
             topic: "Biology",
             slug: "Reproduction",
+        },
+        {
+            title: "Religion",
+            shortDescription: "Social-cultural system",
+            thumbnail: "/assets/religion.png",
+            topic: "Religion",
+            slug: "Religion",
+        },
+        {
+            title: "Prehistory of nakedness and clothing",
+            shortDescription: "Span of time before recorded history of nakedness and clothing",
+            thumbnail: "/assets/nakedness_and_clothing.png",
+            topic: "Social History",
+            slug: "Prehistory_of_nakedness_and_clothing",
         },
         {
             title: "Electron",
@@ -209,13 +223,6 @@ export const knowledgeBase = {
             thumbnail: "/assets/primate.png",
             topic: "Biology",
             slug: "Primate",
-        },
-        {
-            title: "Prehistory of nakedness and clothing",
-            shortDescription: "Span of time before recorded history of nakedness and clothing",
-            thumbnail: "/assets/nakedness_and_clothing.png",
-            topic: "Social History",
-            slug: "Prehistory_of_nakedness_and_clothing",
         },
         {
             title: "Bipedality",
@@ -293,13 +300,6 @@ export const knowledgeBase = {
             thumbnail: "/assets/technology.png",
             topic: "Technology",
             slug: "Technology",
-        },
-        {
-            title: "Religion",
-            shortDescription: "Social-cultural system",
-            thumbnail: "/assets/religion.png",
-            topic: "Religion",
-            slug: "Religion",
         },
         {
             title: "Plant",
