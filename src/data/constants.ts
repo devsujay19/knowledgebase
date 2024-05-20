@@ -4,8 +4,8 @@ export const siteMetaData = {
     name: "Knowledge Base | Developer Sujay",
     type: "Knowledge Base",
     techStack: [
-        "NextJS 14",
-        "Tailwind CSS 3",
+        "NextJS 14.2.3",
+        "Tailwind CSS 3.4.3",
         "Aceternity UI",
     ],
     literalTechStack: [
