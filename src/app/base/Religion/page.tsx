@@ -881,7 +881,106 @@ export default function Religion() {
                     </li>
                 </ul>
             </div>
-            <ParagraphSecondaryHeader id="A_signle_section_need_to_be_added">A single section need to be added</ParagraphSecondaryHeader>
+            <ParagraphSecondaryHeader id="Related_aspects">Related aspects</ParagraphSecondaryHeader>
+            <span id="Related_aspects"></span>
+            <SubTitle>Law</SubTitle>
+            <p>
+                The study of law and religion is a relatively new field, with several thousand scholars involved in law schools, and academic departments including political science, religion, and history since 1980. Scholars in the field are not only focused on strictly legal issues about religious freedom or non-establishment, but also study religions as they are qualified through judicial discourses or legal understanding of religious phenomena. Exponents look at canon law, natural law, and state law, often in a comparative perspective. Specialists have explored themes in Western history regarding Christianity and justice and mercy, rule and equity, and discipline and love. Common topics of interest include marriage and the family and human rights. Outside of Christianity, scholars have looked at law and religion links in the Muslim Middle East and pagan Rome.
+                <br />
+                <br />
+                <HighLightText text="Studies have focused on secularization. In particular, the issue of wearing religious symbols in public, such as headscarves that are banned in French schools, have received scholarly attention in the context of human rights and feminism" />.
+            </p>
+            <br />
+            <SubTitle>Science</SubTitle>
+            <p>
+                <Link slug="Science" title="Science" /> acknowledges reason and empirical evidence; and religions include revelation, faith and sacredness whilst also acknowledging philosophical and metaphysical explanations with regard to the study of the universe. Both science and religion are not monolithic, timeless, or static because both are complex social and cultural endeavors that have changed through time across languages and cultures.
+                <br />
+                <br />
+                The concepts of science and religion are a recent invention: the term religion emerged in the 17th century in the midst of colonization and globalization and the Protestant Reformation. The term science emerged in the 19th century out of natural philosophy in the midst of attempts to narrowly define those who studied nature (natural science), and the phrase religion and science emerged in the 19th century due to the reification of both concepts. It was in the 19th century that the terms Buddhism, Hinduism, Taoism, and Confucianism first emerged. In the ancient and medieval world, the etymological Latin roots of both science (<i>scientia</i>) and religion (<i>religio</i>) were understood as inner qualities of the individual or virtues, never as doctrines, practices, or actual sources of knowledge.
+                <br />
+                <br />
+                In general, the scientific method gains knowledge by testing hypotheses to develop theories through elucidation of facts or evaluation by experiments and thus only answers cosmological questions about the universe that can be observed and measured. It develops theories of the world which best fit physically observed evidence. All scientific knowledge is subject to later refinement, or even rejection, in the face of additional evidence. Scientific theories that have an overwhelming preponderance of favorable evidence are often treated as <i>de facto</i> verities in general parlance, such as the theories of general relativity and natural selection to explain respectively the mechanisms of gravity and evolution.
+                <br />
+                <br />
+                Religion does not have a method per se partly because religions emerge through time from diverse cultures and it is an attempt to find meaning in the world, and to explain humanity&apos;s place in it and relationship to it and to any posited entities. In terms of Christian theology and ultimate truths, people rely on reason, experience, scripture, and tradition to test and gauge what they experience and what they should believe. Furthermore, religious models, understanding, and metaphors are also revisable, as are scientific models.
+                <br />
+                <br />
+                Regarding religion and science, Albert Einstein states (1940): &quot;For science can only ascertain what is, but not what should be, and outside of its domain value judgments of all kinds remain necessary. Religion, on the other hand, deals only with evaluations of human thought and action; it cannot justifiably speak of facts and relationships between facts…Now, even though the realms of religion and science in themselves are clearly marked off from each other, nevertheless there exist between the two strong reciprocal relationships and dependencies. Though religion may be that which determine the goals, it has, nevertheless, learned from science, in the broadest sense, what means will contribute to the attainment of the goals it has set up.&quot;.
+            </p>
+            <br />
+            <SubTitle>Morality</SubTitle>
+            <p>
+                Many religions have value frameworks regarding personal behavior meant to guide adherents in determining between right and wrong. These include the Triple Jems of Jainism, Judaism&apos;s Halacha, Islam&apos;s Sharia, Catholicism&apos;s Canon Law, Buddhism&apos;s Noble Eightfold Path, and Zoroastrianism&apos;s good thoughts, good words, and good deeds concept, among others.
+                <br />
+                <br />
+                Religion and morality are not synonymous. While it is &quot;an almost automatic assumption&quot;, in Christianity, morality can have a secular basis.
+                <br />
+                <br />
+                The study of religion and morality can be contentious due to ethnocentric views on morality, failure to distinguish between in group and out group altruism, and inconsistent definitions of religiosity.
+            </p>
+            <br />
+            <SubTitle>Politics</SubTitle>
+            <SecondarySubTitle>Impact</SecondarySubTitle>
+            <br />
+            <p>
+                Religion has had a significant impact on the political system in many countries. Notably, most Muslim-majority countries adopt various aspects of sharia, the Islamic law. Some countries even define themselves in religious terms, such as The Islamic Republic of Iran. The sharia thus affects up to 23% of the global population, or 1.57 billion people who are Muslims. However, religion also affects political decisions in many western countries. For instance, in the United States, 51% of voters would be less likely to vote for a presidential candidate who did not believe in God, and only 6% more likely. Christians make up 92% of members of the US Congress, compared with 71% of the general public (as of 2014). At the same time, while 23% of U.S. adults are religiously unaffiliated, only one member of Congress (Kyrsten Sinema, D-Arizona), or 0.2% of that body, claims no religious affiliation. In most European countries, however, religion has a much smaller influence on politics although it used to be much more important. For instance, same-sex marriage and abortion were illegal in many European countries until recently, following Christian (usually Catholic) doctrine. Several European leaders are atheists (e.g., France&apos;s former president Francois Hollande or Greece&apos;s prime minister Alexis Tsipras). In Asia, the role of religion differs widely between countries. For instance, India is still one of the most religious countries and religion still has a strong impact on politics, given that Hindu nationalists have been targeting minorities like the Muslims and the Christians, who historically belonged to the lower castes. By contrast, countries such as China or Japan are largely secular and thus religion has a much smaller impact on politics.
+            </p>
+            <br />
+            <SecondarySubTitle>Secularism</SecondarySubTitle>
+            <br />
+            <ReferencingVisual src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ranjitsingh.gif" w={300} h={450} caption={
+                (
+                    <>
+                        Ranjit Singh established secular rule over Punjab in the early 19th century.
+                    </>
+                )
+            } />
+            <br />
+            <p>
+                Secularization is the transformation of the politics of a society from close identification with a particular religion&apos;s values and institutions toward nonreligious values and secular institutions. The purpose of this is frequently modernization or protection of the population&apos;s religious diversity.
+            </p>
+            <br />
+            <SubTitle>Economics</SubTitle>
+            <ReferencingVisual src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Religion_economy.png/525px-Religion_economy.png" w={600} h={500} caption={
+                (
+                    <>
+                        Average income correlates negatively with (self-defined) religiosity.
+                    </>
+                )
+            } />
+            <br />
+            <p>
+                One study has found there is a negative correlation between self-defined religiosity and the wealth of nations. In other words, the richer a nation is, the less likely its inhabitants to call themselves religious, whatever this word means to them (Many people identify themselves as part of a religion (not irreligion) but do not self-identify as religious).
+                <br />
+                <br />
+                Sociologist and political economist Max Weber has argued that Protestant Christian countries are wealthier because of their Protestant work ethic. According to a study from 2015, Christians hold the largest amount of wealth (55% of the total world wealth), followed by Muslims (5.8%), Hindus (3.3%) and Jews (1.1%). According to the same study it was found that adherents under the classification Irreligion or other religions hold about 34.8% of the total global wealth (while making up only about 20% of the world population, see section on classification).
+            </p>
+            <br />
+            <SubTitle>Health</SubTitle>
+            <p>
+                Mayo Clinic researchers examined the association between religious involvement and spirituality, and physical health, mental health, health-related quality of life, and other health outcomes. The authors reported that: &quot;Most studies have shown that religious involvement and spirituality are associated with better health outcomes, including greater longevity, coping skills, and health-related quality of life (even during terminal illness) and less anxiety, depression, and suicide.&quot;
+                <br />
+                <br />
+                The authors of a subsequent study concluded that the influence of religion on health is largely beneficial, based on a review of related literature. According to academic James W. Jones, several studies have discovered &quot;positive correlations between religious belief and practice and mental and physical health and longevity.&quot;
+                <br />
+                <br />
+                An analysis of data from the 1998 US General Social Survey, whilst broadly confirming that religious activity was associated with better health and well-being, also suggested that the role of different dimensions of spirituality/religiosity in health is rather more complicated. The results suggested &quot;that it may not be appropriate to generalize findings about the relationship between spirituality/religiosity and health from one form of spirituality/religiosity to another, across denominations, or to assume effects are uniform for men and women.
+            </p>
+            <br />
+            <SubTitle>Violence</SubTitle>
+            <p>
+                Critics such as Hector Avalos, Regina Schwartz, Christopher Hitchens, and Richard Dawkins have argued that religions are inherently violent and harmful to society by using violence to promote their goals, in ways that are endorsed and exploited by their leaders.
+                <br />
+                <br />
+                Anthropologist Jack David Eller asserts that religion is not inherently violent, arguing &quot;religion and violence are clearly compatible, but they are not identical.&quot;. He asserts that &quot;violence is neither essential to nor exclusive to religion&quot; and that &quot;virtually every form of religious violence has its nonreligious corollary.&quot;
+            </p>
+            <br />
+            <SecondarySubTitle>Animal sacrifice</SecondarySubTitle>
+            <br />
+            <p>
+                Some (but not all) religions practise animal sacrifice, the ritual killing and offering of an animal to appease or maintain favour with a deity. It has been banned in India.
+            </p>
+            <ParagraphSecondaryHeader id="Four_subsections_are_needed">Four subsections are needed</ParagraphSecondaryHeader>
             <ParagraphSecondaryHeader id="Criticism">Criticism</ParagraphSecondaryHeader>
             <p id="Criticism">
                 Criticism of religion is criticism of the ideas, the truth, or the practice of religion, including its political and social implications.
