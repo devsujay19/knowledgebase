@@ -1,6 +1,24 @@
 export const changelogData = {
     logs: [
         {
+            title: "Modified Footer text",
+            type: "Modification",
+            date: "May 22, 2024",
+            updates: "Modified the text in the footer that was coming from a constant.ts file and added co-responding URLs for a specific words.",
+        },
+        {
+            title: "Modified some stylings",
+            type: "Modification",
+            date: "May 22, 2024",
+            updates: "Modified some stylings in the home page, base page. On the home page, the text after the header is changed to what it is in the latest update and added the Vortex background is set to wrap the TypeWriterEffect component. And on the base page, the Vortex background is removed and placed in the home page, which is enabling more smoothness in the base page for computer devices.",
+        },
+        {
+            title: "Completed Religion article",
+            type: "Completion",
+            date: "May 21, 2024",
+            updates: "Almost completed Religion article. Only four subsections are needed to be added.",
+        },
+        {
             title: "Modified Introduction article",
             type: "Modification",
             date: "May 21, 2024",

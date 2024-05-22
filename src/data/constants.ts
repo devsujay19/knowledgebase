@@ -1,3 +1,5 @@
+import Redirect from "@/components/Redirect";
+
 const copyRightYear = new Date().getFullYear();
 
 export const siteMetaData = {
@@ -19,6 +21,6 @@ export const siteMetaData = {
     previousBaseURI: "https://developer-sujays-knowledge-base.vercel.app",
     repository: "https://github.com/devsujay19/knowledgebase",
     baseURI: "https://dskb.vercel.app",
-    copyRightSentence: `© ${copyRightYear} | Sujay Mukherjee. All Rights Reserved.`,
+    copyRightSentence: `© ${copyRightYear} | <a target='_blank' href='https://github.com/devsujay19'>Sujay Mukherjee</a>. <a target='_blank' href='https://github.com/devsujay19/knowledgebase/blob/main/LICENSE'>MIT</a> Licensed.`,
     copyRightYear: copyRightYear,
 };
