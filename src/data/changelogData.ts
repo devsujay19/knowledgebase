@@ -1,6 +1,12 @@
 export const changelogData = {
     logs: [
         {
+            title: "Completed Religion article",
+            type: "Completion",
+            date: "May 22, 2024",
+            updates: "Religion article is now fully completed.",
+        },
+        {
             title: "Modified Footer text",
             type: "Modification",
             date: "May 22, 2024",

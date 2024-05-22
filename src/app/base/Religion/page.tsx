@@ -537,7 +537,7 @@ export default function Religion() {
             } />
             <br />
             <p>
-                Islam is a monotheistic religion based on the Quran,[137] one of the holy books considered by Muslims to be revealed by God, and on the teachings (hadith) of the Islamic prophet Muhammad, a major political and religious figure of the 7th century CE. Islam is based on the unity of all religious philosophies and accepts all of the Abrahamic prophets of Judaism, Christianity and other Abrahamic religions before Muhammad. It is the most widely practiced religion of Southeast Asia, North Africa, Western Asia, and Central Asia, while Muslim-majority countries also exist in parts of South Asia, Sub-Saharan Africa, and Southeast Europe. There are also <HighLightText text="several Islamic republics, including Iran, Pakistan, Mauritania, and Afghanistan" />. With about 1.8 billion followers (2015), almost a quarter of earth&apos;s population are Muslims.
+                Islam is a monotheistic religion based on the Quran, one of the holy books considered by Muslims to be revealed by God, and on the teachings (hadith) of the Islamic prophet Muhammad, a major political and religious figure of the 7th century CE. Islam is based on the unity of all religious philosophies and accepts all of the Abrahamic prophets of Judaism, Christianity and other Abrahamic religions before Muhammad. It is the most widely practiced religion of Southeast Asia, North Africa, Western Asia, and Central Asia, while Muslim-majority countries also exist in parts of South Asia, Sub-Saharan Africa, and Southeast Europe. There are also <HighLightText text="several Islamic republics, including Iran, Pakistan, Mauritania, and Afghanistan" />. With about 1.8 billion followers (2015), almost a quarter of earth&apos;s population are Muslims.
             </p>
             <br />
             <div className="pl-4">
@@ -980,7 +980,39 @@ export default function Religion() {
             <p>
                 Some (but not all) religions practise animal sacrifice, the ritual killing and offering of an animal to appease or maintain favour with a deity. It has been banned in India.
             </p>
-            <ParagraphSecondaryHeader id="Four_subsections_are_needed">Four subsections are needed</ParagraphSecondaryHeader>
+            <br />
+            <SubTitle>Superstition</SubTitle>
+            <p>
+                Greek and Roman pagans, who saw their relations with the gods in political and social terms, scorned the man who constantly trembled with fear at the thought of the gods (<i>deisidaimonia</i>), as a slave might fear a cruel and capricious master. The Romans called such fear of the gods <i>superstitio</i>. Ancient Greek historian Polybius described superstition in ancient Rome as an <i>instrumentum regni</i>, an instrument of maintaining the cohesion of the Empire.
+                <br />
+                <br />
+                Superstition has been described as the non-rational establishment of cause and effect. Religion is more complex and is often composed of social institutions and has a moral aspect. Some religions may include superstitions or make use of magical thinking. Adherents of one religion sometimes think of other religions as superstition. Some atheists, deists, and skeptics regard religious belief as superstition.
+                <br />
+                <br />
+                The Roman Catholic Church considers superstition to be sinful in the sense that it denotes a lack of trust in the divine providence of God and, as such, is a violation of the first of the Ten Commandments. The <i>Catechism of the Catholic Church</i> states that superstition &quot;in some sense represents a perverse excess of religion&quot; (para. #2110). &quot;Superstition,&quot; it says, &quot;is a deviation of religious feeling and of the practices this feeling imposes. It can even affect the worship we offer the true God, e.g., when one attributes an importance in some way magical to certain practices otherwise lawful or necessary. To attribute the efficacy of prayers or of sacramental signs to their mere external performance, apart from the interior dispositions that they demand is to fall into superstition. Cf. Matthew 23:16–22&quot; (para. #2111)
+            </p>
+            <br />
+            <SubTitle>Agnosticism and atheism</SubTitle>
+            <p>
+                The terms atheist (lack of belief in gods) and agnostic (belief in the unknowability of the existence of gods), though specifically contrary to theistic (e.g., Christian, Jewish, and Muslim) religious teachings, do not by definition mean the opposite of religious. The true opposite of religious is the word irreligious. Irreligion describes an absence of any religion; antireligion describes an active opposition or aversion toward religions in general. There are religions (including Buddhism and Taoism) that classify some of their followers as agnostic, atheistic, or nontheistic. For example, in ancient India, there were large atheistic movements and traditions (Nirīśvaravāda) that rejected the Vedas, such as the atheistic Ājīvika and the Ajñana which taught agnosticism.
+            </p>
+            <br />
+            <SubTitle>Interfaith cooperation</SubTitle>
+            <p>
+                Because religion continues to be recognized in Western thought as a universal impulse, many religious practitioners have aimed to band together in interfaith dialogue, cooperation, and religious peacebuilding. The first major dialogue was the Parliament of the World&quot;s Religions at the 1893 Chicago World&quot;s Fair, which affirmed universal values and recognition of the diversity of practices among different cultures. The 20th century has been especially fruitful in use of interfaith dialogue as a means of solving ethnic, political, or even religious conflict, with Christian–Jewish reconciliation representing a complete reverse in the attitudes of many Christian communities towards Jews.
+                <br />
+                <br />
+                Recent interfaith initiatives include A Common Word, launched in 2007 and focused on bringing Muslim and Christian leaders together, the &quot;C1 World Dialogue&quot;, the Common Ground initiative between Islam and Buddhism, and a United Nations sponsored &quot;World Interfaith Harmony Week&quot;.
+            </p>
+            <br />
+            <SubTitle>Culture</SubTitle>
+            <p>
+                Culture and religion have usually been seen as closely related. Paul Tillich looked at religion as the soul of culture and culture as the form or framework of religion. In his own words:
+            </p>
+            <BlockQuote>Religion as ultimate concern is the meaning-giving substance of culture, and culture is the totality of forms in which the basic concern of religion expresses itself. In abbreviation: religion is the substance of culture, culture is the form of religion. Such a consideration definitely prevents the establishment of a dualism of religion and culture. Every religious act, not only in organized religion, but also in the most intimate movement of the soul, is culturally formed.</BlockQuote>
+            <p>
+                Ernst Troeltsch, similarly, looked at culture as the soil of religion and thought that, therefore, transplanting a religion from its original culture to a foreign culture would actually kill it in the same manner that transplanting a plant from its natural soil to an alien soil would kill it. However, there have been many attempts in the modern pluralistic situation to distinguish culture from religion. Domenic Marbaniang has argued that elements grounded on beliefs of a metaphysical nature (religious) are distinct from elements grounded on nature and the natural (cultural). For instance, language (with its grammar) is a cultural element while sacralization of language in which a particular religious scripture is written is more often a religious practice. The same applies to music and the arts.
+            </p>
             <ParagraphSecondaryHeader id="Criticism">Criticism</ParagraphSecondaryHeader>
             <p id="Criticism">
                 Criticism of religion is criticism of the ideas, the truth, or the practice of religion, including its political and social implications.
