@@ -8,3 +8,6 @@ For using previous URI, visit here: [developer-sujays-knowledge-base.vercel.app]
 
 > [!NOTE]  
 > It's highly recommended to visit the app by enabling the dark made/theme by default (and preserve) of your device, excessive release of light could cause site crash or even browser crash as per tests are resulting.
+
+> [!NOTE]  
+>  Knowledge Base, which is deployed using Vercel, has Security Checkpoint enabled to safely provide better experience from DDoS (Distributed Denial-of-Service) attack. For that, the app may load at-least after 3-5 seconds.
