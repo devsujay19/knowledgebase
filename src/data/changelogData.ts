@@ -4,7 +4,7 @@ export const changelogData = {
             title: "Added a VERSION file",
             type: "Feature",
             date: "May 22, 2024",
-            updates: "Added a file named VERSION in the root of the project for listing the latest version updated and deployed in the cloud. VERSION file can be seen in the GitHub repository.",
+            updates: "Added a file named VERSION in the root of the project for listing the latest version updated and deployed in the cloud. Although, the VERSION file cannot be seen in the GitHub repository.",
         },
         {
             title: "Wrote the Primate article",
