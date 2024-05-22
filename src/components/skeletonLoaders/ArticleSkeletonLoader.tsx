@@ -7,25 +7,25 @@ export function ArticleSkeletonLoader() {
         <ArticleSkeletonLoaderUtility className="px-6">
             <div className="max-w-2xl mx-auto antialiased pt-4 relative">
                 <div className="mb-10">
-                    <div className="rounded-full w-fit px-4 py-1 mb-4 bg-gray-600 animate-pulse">
+                    <div className="rounded-full w-fit px-4 py-1 mb-4 bg-neutral-600 animate-pulse">
                     </div>
 
-                    <div className="py-1 mb-4 bg-gray-600 animate-pulse">
+                    <div className="py-1 mb-4 bg-neutral-600 animate-pulse">
                     </div>
 
-                    <div className="bg-gray-600 animate-pulse px-[100] py-40">
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
-                        <div className="animate-pulse mb-3 py-1 px-10 bg-gray-600"></div>
+                    <div className="bg-neutral-600 animate-pulse px-[100] py-40">
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
+                        <div className="animate-pulse mb-3 py-1 px-10 bg-neutral-600"></div>
                     </div>
                 </div>
             </div>

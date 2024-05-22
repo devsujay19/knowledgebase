@@ -1,6 +1,18 @@
 export const changelogData = {
     logs: [
         {
+            title: "Added a VERSION file",
+            type: "Feature",
+            date: "May 22, 2024",
+            updates: "Added a file named VERSION in the root of the project for listing the latest version updated and deployed in the cloud. VERSION file can be seen in the GitHub repository.",
+        },
+        {
+            title: "Wrote the Primate article",
+            type: "Moderate",
+            date: "May 22, 2024",
+            updates: "Wrote some parts of the article Primate and also added it to the upper side where all the articles are organized as completed.",
+        },
+        {
             title: "Completed Religion article",
             type: "Completion",
             date: "May 22, 2024",

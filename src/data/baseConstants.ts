@@ -169,6 +169,20 @@ export const knowledgeBase = {
             slug: "Religion",
         },
         {
+            title: "Primate",
+            shortDescription: "Order of mammals",
+            thumbnail: "/assets/primate.png",
+            topic: "Biology",
+            slug: "Primate",
+        },
+        {
+            title: "Species",
+            shortDescription: "Basic unit of taxonomic classification which lies below genus",
+            thumbnail: "/assets/species.png",
+            topic: "Biology",
+            slug: "Species",
+        },
+        {
             title: "Prehistory of nakedness and clothing",
             shortDescription: "Span of time before recorded history of nakedness and clothing",
             thumbnail: "/assets/nakedness_and_clothing.png",
@@ -209,20 +223,6 @@ export const knowledgeBase = {
             thumbnail: "/assets/hominidae.png",
             topic: "Biology",
             slug: "Hominidae",
-        },
-        {
-            title: "Species",
-            shortDescription: "Basic unit of taxonomic classification which lies below genus",
-            thumbnail: "/assets/species.png",
-            topic: "Biology",
-            slug: "Species",
-        },
-        {
-            title: "Primate",
-            shortDescription: "Order of mammals",
-            thumbnail: "/assets/primate.png",
-            topic: "Biology",
-            slug: "Primate",
         },
         {
             title: "Bipedality",
