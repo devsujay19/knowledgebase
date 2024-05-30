@@ -1,6 +1,12 @@
 export const changelogData = {
     logs: [
         {
+            title: "Removed unnecessary code blocks",
+            type: "Modification",
+            date: "May 30, 2024",
+            updates: "Removed all the unnecessary code blocks that were slowing the experience of the app. Specifically, removed the Vortex background effect wrapper-component from the landing page/home page.",
+        },
+        {
             title: "Added a VERSION file",
             type: "Feature",
             date: "May 22, 2024",
